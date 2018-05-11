@@ -1,0 +1,11 @@
+C:\Users\jdrager\Documents\GitHub\graphql-demo\bin\MCD\Debug\netcoreapp2.0\graphql-demo.deps.json
+C:\Users\jdrager\Documents\GitHub\graphql-demo\bin\MCD\Debug\netcoreapp2.0\graphql-demo.runtimeconfig.json
+C:\Users\jdrager\Documents\GitHub\graphql-demo\bin\MCD\Debug\netcoreapp2.0\graphql-demo.runtimeconfig.dev.json
+C:\Users\jdrager\Documents\GitHub\graphql-demo\bin\MCD\Debug\netcoreapp2.0\graphql-demo.dll
+C:\Users\jdrager\Documents\GitHub\graphql-demo\bin\MCD\Debug\netcoreapp2.0\graphql-demo.pdb
+C:\Users\jdrager\Documents\GitHub\graphql-demo\obj\MCD\Debug\netcoreapp2.0\graphql-demo.csprojAssemblyReference.cache
+C:\Users\jdrager\Documents\GitHub\graphql-demo\obj\MCD\Debug\netcoreapp2.0\graphql-demo.csproj.CoreCompileInputs.cache
+C:\Users\jdrager\Documents\GitHub\graphql-demo\obj\MCD\Debug\netcoreapp2.0\graphql-demo.AssemblyInfoInputs.cache
+C:\Users\jdrager\Documents\GitHub\graphql-demo\obj\MCD\Debug\netcoreapp2.0\graphql-demo.AssemblyInfo.cs
+C:\Users\jdrager\Documents\GitHub\graphql-demo\obj\MCD\Debug\netcoreapp2.0\graphql-demo.dll
+C:\Users\jdrager\Documents\GitHub\graphql-demo\obj\MCD\Debug\netcoreapp2.0\graphql-demo.pdb
