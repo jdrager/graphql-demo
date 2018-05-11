@@ -14,7 +14,7 @@ module.exports = [
         },
 
         resolve: {
-            extensions: ['.js', '.json']
+            extensions: ['.mjs', '.js', '.json']
         },
 
         module: {
